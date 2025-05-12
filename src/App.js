@@ -7,9 +7,9 @@ const App = () => {
 
   // Cores principais do app
   const colors = {
-    azul: '#2E5BBA',
-    roxo: '#BA4DB9',
-    verde: '#00A58C'
+    azul: '#1C3F8A',
+    roxo: '#8B2C8A',
+    verde: '#00725F'
   };
 
   const categories = [
@@ -249,7 +249,7 @@ const App = () => {
 
       <div className="footer-info">
         <p>Desenvolvido pela</p>
-        <p>oDos - Aceleradora de Negócios</p>
+        <p>Acopli</p>
       </div>
     </div>
   );
