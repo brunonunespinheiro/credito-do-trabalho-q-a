@@ -377,11 +377,11 @@ const App = () => {
         <h3>Ainda tem dúvidas?</h3>
         <p>Entre em contato conosco para obter assistência personalizada sobre o Crédito do Trabalhador.</p>
         
-        <a href="https://wa.me/5598984177288" className="whatsapp-button">
+        <a href="https://wa.me/5598981931118" className="whatsapp-button">
           {icons.whatsapp}
           <div className="button-text">
             <div>Fale conosco:</div>
-            <div>(98) 98417-7288</div>
+            <div>(98) 98193-1118</div>
           </div>
         </a>
         
